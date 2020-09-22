@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465023977399",
+    "firebase_url": "https://dishuum-dev.firebaseio.com",
+    "project_id": "dishuum-dev",
+    "storage_bucket": "dishuum-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465023977399:android:3899d69cdaa2623616ca32",
+        "android_client_info": {
+          "package_name": "com.intlabs.dishoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465023977399-78a2k3e0i7alu3n1nalmtggdadehnb4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intlabs.dishoom",
+            "certificate_hash": "578049e862bbf97fa35a3c6f3b25b4c39653743a"
+          }
+        },
+        {
+          "client_id": "465023977399-ttle34tr1qt0q2pl5g7fqg24tkk8bucm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJxxJeAsM_TEiS8wjYgpIEhcIKh5uEZ7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465023977399-ttle34tr1qt0q2pl5g7fqg24tkk8bucm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
